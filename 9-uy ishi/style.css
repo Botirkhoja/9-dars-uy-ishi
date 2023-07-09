@@ -1,0 +1,76 @@
+body{
+    background: rgba(31, 152, 240, 1);
+}
+
+h1{
+    color: white;
+}
+
+ul{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+li{
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 30px;
+}
+
+.bt{
+    width: 184px;
+    height: 52px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    margin-left: 500px;
+}
+
+.ota{
+    display: flex;
+    align-items: center;   
+}
+
+.kart{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-left: 200px;
+}
+
+p{
+    color: white;
+    font-size: 18px;
+}
+
+.card{
+    height: 320.75px;
+    width: 500px;
+    left: 230px;
+    top: 319px; 
+}
+
+.h11{
+    font-size: 51px;
+}
+
+.img1{
+    height: 40px;
+}
+
+.iphone{
+    width: 600px;
+}
+
+.iphone:hover{
+    transition: all ease 1s;
+    transform: rotate(-180deg);
+}
+
+.ota2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
